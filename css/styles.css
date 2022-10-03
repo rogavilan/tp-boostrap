@@ -1,0 +1,139 @@
+/*Hoja de estilos*/
+*{
+    margin: 0;
+}
+#menu {
+    padding-left: 3%;
+    padding-right: 3%;
+    background-color: #353a40;
+}
+#palacio {
+   font-size: 17px;
+   font-weight: 500;
+}
+#titulo {
+    font-size: 35px;
+}
+#oradores {
+    padding-left: 15%;
+    padding-right: 15%;
+    font-size: 14px;
+}
+
+#conoce {
+    font-size: 12px;
+    margin-top: 1%
+}
+#ora { 
+    font-size: 27px;
+    font-weight: 500;
+}
+
+#button1 {
+    background-color: gold;
+    padding: 1%;
+    border: none; border-radius: 5px;
+    font-size: 11px;
+    font-weight: bold;
+   
+
+}
+#button2 {
+    background-color:darkcyan;
+    padding: 1%;
+    border: none; border-radius: 5px;
+    font-size: 11px;
+    font-weight: bold;
+    color: white;
+}
+#button3 {
+    background-color:#6c757c;
+    padding: 1%;
+    border: none; border-radius: 5px;
+    font-size: 11px;
+    font-weight: bold;
+    color: white;  
+}
+#button4 {
+    background-color:crimson;
+    padding: 1%;
+    border: none; border-radius: 5px;
+    font-size: 11px;
+    font-weight: bold;
+    color: white;
+}
+
+#description {
+    background-color: #353a40;
+    color: white;
+    font-size: 12px;
+
+}
+p.card-text1 {
+    font-size: 12px;
+    background-color: white;
+}
+
+
+div card-header1 {
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    margin-top: 20%;
+}
+div card-body1 {
+    padding-left: 15%;
+}
+#azul {
+    background-image: linear-gradient(to right, #1d3744 , #1d5271);
+    color:white;
+    font-size: small;
+    padding-top: 20px; padding-bottom: 20px;
+}
+#anota {
+    font-size: 13px;
+}
+
+#opinion {
+    font-size: 18px;
+}
+#botondeabajo {
+    background-color: #96c93e;
+}
+#botondeabajo:hover {
+    background-color:#14B263
+}
+#tick1:hover {
+    color: #14B263;
+
+}
+#f1:hover {
+    color:#14B263;
+}
+#f2:hover {
+    color:#14B263;
+}
+#f3:hover {
+    color:#14B263;
+}
+#f4:hover {
+    color:#14B263;
+}
+#f5:hover {
+    color:#14B263;
+}
+#f6:hover {
+    color:#14B263;
+}
+#f7:hover {
+    color:#14B263;
+}
+
+#nameimput {
+    font-size: smaller;
+}
+#lastnameimput {
+    font-size: smaller;
+}
+#texthelp {
+    font-size: x-small;
+}
